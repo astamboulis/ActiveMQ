@@ -1,4 +1,4 @@
-package activemq;
+package activemq.example;
 
 import javax.jms.CompletionListener;
 import javax.jms.Connection;

@@ -1,4 +1,4 @@
-package activemq;
+package activemq.example;
 
 public class URL_Consumer {
 

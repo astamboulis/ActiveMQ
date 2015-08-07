@@ -1,4 +1,4 @@
-package activemq;
+package activemq.example;
 
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;

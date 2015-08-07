@@ -1,4 +1,4 @@
-package activemq.ActiveMQ2;
+package activemq.example;
 
 /**
  * Unit test for simple App.
