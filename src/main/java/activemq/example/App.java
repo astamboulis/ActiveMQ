@@ -1,4 +1,4 @@
-package activemq;
+package activemq.example;
 
 import org.apache.activemq.ActiveMQConnectionFactory;
 
